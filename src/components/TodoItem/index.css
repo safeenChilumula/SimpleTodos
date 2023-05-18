@@ -1,0 +1,27 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-size: 17px;
+  font-family: 'roboto';
+  font-weight: 500;
+  margin-right: 28px;
+}
+
+.button {
+  color: #ff0b37;
+  padding: 5px;
+  width: 68px;
+  border-radius: 9px;
+  border-style: solid;
+  border-color: #ff0b37;
+  background-color: #ffffff;
+  font-size: 14px;
+  font-family: 'roboto';
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+}
